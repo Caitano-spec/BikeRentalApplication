@@ -1,1 +1,0 @@
-main is the main program/homepage run it to start the application. 
